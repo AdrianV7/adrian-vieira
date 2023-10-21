@@ -78,7 +78,7 @@ header li a:hover
 
 .container
 {
-    position: relative;
+    position: center;
     width: 100%;
     display: flex;
     align-items: center;
@@ -177,7 +177,6 @@ header li a:hover
 }
 .boxImg .img1
 {
-    
     transform: rotate(-30deg);
     float: left; 
     width: 300px; 
